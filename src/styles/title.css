@@ -1,0 +1,13 @@
+.title{
+  padding: 10px;
+}
+
+.title h1{
+  text-align: center;
+  font-size: 28px;
+  padding-bottom: 10px;
+}
+
+hr{
+  color: #d3d3d3;
+}

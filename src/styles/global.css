@@ -1,0 +1,77 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  background-color: #d1d8e5;
+  color: #29292e;
+  font-family: 'Poppins', sans-serif;
+}
+
+.conteudo{
+  display: flex;
+  width: 100%;
+  padding: 3%;
+}
+
+.image{
+  width: 25%;
+  border: 2px solid #d3d3d3;
+  text-align: center;
+}
+
+.image img{
+  width: 75%;
+}
+
+.nome{
+  width: 75%;
+  padding: 25px;
+  font-size: 19px;
+}
+
+.listPrice{
+  font-size: 15px;
+  color: #a6a5a5;
+}
+
+.sellingPrice{
+  font-weight: 400;
+  font-size: 18px;
+}
+
+.total{
+  display: flex;
+  padding: 30px;
+  width: 100%;
+}
+
+.texto, .valor{
+  font-size: 35px;
+  width: 50%;
+}
+
+.valor{
+  text-align: right;
+}
+
+.botao{
+  padding: 25px;
+}
+
+.msg{
+  padding: 0 10%;
+  text-align: center;
+}
+
+.msg div{
+  background-color: #c7ffa6;
+  padding: 20px 0;
+  color: #359c12;
+  font-size: 25px;
+  border-radius: 30px;
+}
+
+
